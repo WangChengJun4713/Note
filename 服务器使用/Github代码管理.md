@@ -28,7 +28,7 @@ git config user.email "charles4713@163.com"
 
 1、初始化
 
-![image-20250416173045215](..\Imgs\image-20250416173045215.png)
+![image-20250416173045215](../Imgs/image-20250416173045215.png)
 
 2、等价于git add 好处是部分上传时只需要逐个点击
 
