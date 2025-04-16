@@ -28,31 +28,31 @@ git config user.email "charles4713@163.com"
 
 1、初始化
 
-![image-20250416173045215](D:\Typora\Data\Image\image-20250416173045215.png)
+![image-20250416173045215](F:\Note\Imgs\image-20250416173045215.png)
 
 2、等价于git add 好处是部分上传时只需要逐个点击
 
-![image-20250416173133813](D:\Typora\Data\Image\image-20250416173133813.png)
+![image-20250416173133813](F:\Note\Imgs\image-20250416173133813.png)
 
 3、等价于git commit -m "first commit"
 
-![image-20250416173737368](D:\Typora\Data\Image\image-20250416173737368.png)
+![image-20250416173737368](F:\Note\Imgs\image-20250416173737368.png)
 
 4、选分支，这里默认新建项目
 
-![image-20250416174022212](D:\Typora\Data\Image\image-20250416174022212.png)
+![image-20250416174022212](F:\Note\Imgs\image-20250416174022212.png)
 
 如果要选择已有项目的话
 
-![image-20250416174338468](D:\Typora\Data\Image\image-20250416174338468.png)
+![image-20250416174338468](F:\Note\Imgs\image-20250416174338468.png)
 
 填充URL即可
 
-![image-20250416174357443](D:\Typora\Data\Image\image-20250416174357443.png)
+![image-20250416174357443](F:\Note\Imgs\image-20250416174357443.png)
 
 5、等价于git push
 
-![image-20250416173810996](D:\Typora\Data\Image\image-20250416173810996.png)
+![image-20250416173810996](F:\Note\Imgs\image-20250416173810996.png)
 
 ---
 
@@ -77,7 +77,7 @@ git pull git@github.com:WangChengJun4713/EEG.git main
 
 **vscode操作**
 
-![image-20250416175752572](D:\Typora\Data\Image\image-20250416175752572.png)
+![image-20250416175752572](F:\Note\Imgs\image-20250416175752572.png)
 
 ### 3 配置密钥
 
@@ -85,7 +85,7 @@ git pull git@github.com:WangChengJun4713/EEG.git main
 
 把本机的公钥上传 
 
-![image-20250416175535274](D:\Typora\Data\Image\image-20250416175535274.png)
+![image-20250416175535274](F:\Note\Imgs\image-20250416175535274.png)
 
 ### 4 大文件上传和下载
 
